@@ -1,0 +1,13 @@
+.flip-container {
+    perspective: 1000px;
+    display: inline-block;
+    background: black;
+};
+
+.front {
+    position: absolute;
+    left: 0;
+    top: 0;
+};
+
+
